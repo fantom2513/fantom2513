@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+  <title id="title">fantom2513 — Fullstack / ML Engineer</title>
+  <desc id="desc">Тёмный баннер с геометрическими линиями и бирюзово-фиолетовыми акцентами.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="0.55" stop-color="#15172d"/>
+      <stop offset="1" stop-color="#241a3c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#64e8d5"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="290" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="290" fill="url(#background)"/>
+    <rect width="1200" height="290" fill="url(#grid)"/>
+    <circle cx="1040" cy="135" r="170" fill="none" stroke="#9d8bfa" stroke-opacity="0.25" stroke-width="1"/>
+    <circle cx="1040" cy="135" r="115" fill="none" stroke="#64e8d5" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="1040" cy="135" r="58" fill="none" stroke="#9d8bfa" stroke-opacity="0.7" stroke-width="1"/>
+    <circle cx="1040" cy="135" r="8" fill="#64e8d5"/>
+    <path d="M 850 215 L 950 170 L 1040 135 L 1130 72" fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.8"/>
+    <circle cx="950" cy="170" r="5" fill="#a78bfa"/>
+    <circle cx="1130" cy="72" r="5" fill="#64e8d5"/>
+    <rect x="60" y="48" width="42" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="60" y="120" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">fantom2513</text>
+    <text x="62" y="169" fill="#b8c5dc" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="3">FULLSTACK / ML ENGINEER</text>
+    <text x="62" y="228" fill="#77e9d8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Строю интерфейсы, API и продукты с ML</text>
+  </g>
+</svg>
