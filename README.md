@@ -8,7 +8,7 @@ Full-stack engineer working on applied ML and LLM systems.
 
 **ML and LLMs**
 
-RAG, vector search with pgvector, LangGraph, vLLM, PyTorch, and structured model outputs. I fine-tuned a code generation model with LoRA on an SFT dataset, targeting instruction following and adherence to a specific UI kit's components and patterns.
+RAG pipelines, pgvector-backed retrieval, LangGraph workflows, vLLM inference, PyTorch, and structured outputs. LoRA-based SFT of a code-generation model, focused on instruction following for a specific UI kit.
 
 **Backend and data**
 
