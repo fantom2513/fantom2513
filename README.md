@@ -1,21 +1,31 @@
-<img src="./assets/banner.svg" alt="fantom2513 — Fullstack / ML Engineer" width="100%" />
+# fantom2513
 
-## Технический стек
+Full-stack engineer working on applied ML and LLM systems.
 
-| Направление | Технологии и практика |
-| --- | --- |
-| **Backend и данные** | Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic; REST API и асинхронные сервисы |
-| **Frontend** | TypeScript, React, Vite; интерфейсы для работы с данными и LLM |
-| **ML и LLM** | PyTorch, RAG, векторный поиск с pgvector, LangGraph, vLLM, структурированные ответы моделей |
-| **Дообучение** | LoRA-дообучение языковых моделей порядка 20 млрд параметров |
-| **Инфраструктура** | Docker, Docker Compose, GitLab CI/CD, GitHub Actions, pytest, Vitest |
+## Technical focus
 
-## Опыт
+**ML and LLMs**
 
-В закрытых корпоративных проектах разрабатывал fullstack-сервисы и ML/LLM-функции: интерфейсы на React и TypeScript, API на Python и FastAPI, хранение данных в PostgreSQL, RAG-сценарии и интеграцию моделей через vLLM. Отдельно занимался LoRA-дообучением языковых моделей.
+RAG, vector search with pgvector, LangGraph, vLLM, PyTorch, and structured model outputs. I have also fine-tuned language models around 20B parameters with LoRA.
 
-## Публичный код
+**Backend and data**
 
-**[Mermaid Copilot](https://github.com/fantom2513/ujm-service)** — приложение для генерации и редактирования UX-схем с помощью LLM: TypeScript на frontend и backend, обработка документов, API и экспорт схем.
+Python, FastAPI, PostgreSQL, SQLAlchemy, and Alembic. Async APIs, data processing, and service integration.
 
-<sub>Корпоративный код остаётся закрытым; здесь описаны только направления работы и технологии.</sub>
+**Frontend**
+
+TypeScript, React, and Vite. Interfaces for data-intensive and AI-assisted workflows.
+
+**Delivery and quality**
+
+Docker, Docker Compose, GitLab CI/CD, GitHub Actions, pytest, and Vitest.
+
+## Work
+
+**Enterprise CX platform** *(private code)*
+
+Built React and TypeScript interfaces, Python and FastAPI services, and LLM integrations for CX analytics. The corporate source code is private.
+
+**[Mermaid Copilot](https://github.com/fantom2513/ujm-service)** *(public code)*
+
+An LLM-powered tool for creating and editing UX diagrams, with a TypeScript frontend and backend, document processing, and diagram export.
