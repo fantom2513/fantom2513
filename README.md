@@ -2,8 +2,6 @@
 
 Full-stack engineer working on applied ML and LLM systems.
 
-![Python, PyTorch, FastAPI, PostgreSQL, TypeScript, React, Vite, Docker](https://skillicons.dev/icons?i=py,pytorch,fastapi,postgres,ts,react,vite,docker)
-
 ## Technical focus
 
 **ML and LLMs**
@@ -21,6 +19,8 @@ TypeScript, React, and Vite. Interfaces for data-intensive and AI-assisted workf
 **Delivery and quality**
 
 Docker, Docker Compose, GitLab CI/CD, GitHub Actions, pytest, and Vitest.
+
+![Python, PyTorch, FastAPI, PostgreSQL, TypeScript, React, Vite, Docker](https://skillicons.dev/icons?i=py,pytorch,fastapi,postgres,ts,react,vite,docker)
 
 ## Work
 
