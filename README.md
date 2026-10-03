@@ -2,7 +2,7 @@
 
 Full-stack engineer working on applied ML and LLM systems.
 
-## What I work with
+## Technical focus
 
 **ML and LLMs**
 
@@ -24,7 +24,7 @@ Docker, Docker Compose, GitLab CI/CD, GitHub Actions, pytest, and Vitest.
 
 **Enterprise CX platform** *(private code)*
 
-Full-stack development and ML/LLM integration. The repositories are corporate and remain private; the stack above reflects that work without exposing internal code.
+Built React and TypeScript interfaces, Python and FastAPI services, and LLM integrations for CX analytics. The corporate source code is private.
 
 **[Mermaid Copilot](https://github.com/fantom2513/ujm-service)** *(public code)*
 
