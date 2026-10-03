@@ -1,25 +1,21 @@
 <img src="./assets/banner.svg" alt="fantom2513 — Fullstack / ML Engineer" width="100%" />
 
-### Привет! Я `fantom2513` 👋
+## Технический стек
 
-Разрабатываю веб-приложения и сервисы на стыке **fullstack-разработки и ML**: от интерфейса и API до интеграции моделей в рабочий продукт. Мне интересны инструменты, которые превращают сложные данные и процессы в понятный пользовательский опыт.
+| Направление | Технологии и практика |
+| --- | --- |
+| **Backend и данные** | Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic; REST API и асинхронные сервисы |
+| **Frontend** | TypeScript, React, Vite; интерфейсы для работы с данными и LLM |
+| **ML и LLM** | PyTorch, RAG, векторный поиск с pgvector, LangGraph, vLLM, структурированные ответы моделей |
+| **Дообучение** | LoRA-дообучение языковых моделей порядка 20 млрд параметров |
+| **Инфраструктура** | Docker, Docker Compose, GitLab CI/CD, GitHub Actions, pytest, Vitest |
 
-### Чем занимаюсь
+## Опыт
 
-- **Fullstack:** интерфейсы на React и TypeScript, серверная логика на Python и FastAPI, работа с PostgreSQL.
-- **ML и LLM:** RAG-пайплайны, агентные сценарии, интеграция языковых моделей и LoRA-дообучение моделей порядка 20 млрд параметров.
-- **Инженерия:** Docker, тестирование, CI/CD и развёртывание сервисов.
+В закрытых корпоративных проектах разрабатывал fullstack-сервисы и ML/LLM-функции: интерфейсы на React и TypeScript, API на Python и FastAPI, хранение данных в PostgreSQL, RAG-сценарии и интеграцию моделей через vLLM. Отдельно занимался LoRA-дообучением языковых моделей.
 
-### Публичный проект
+## Публичный код
 
-**[Mermaid Copilot](https://github.com/fantom2513/ujm-service)** — веб-приложение для генерации и редактирования UX-схем с помощью LLM. TypeScript, API, обработка документов и экспорт схем.
-
-### Коммерческий опыт
-
-Работал над закрытой платформой CX-аналитики: fullstack-сервисы, ML-функции и интеграция LLM. Использовал React, TypeScript, Python, FastAPI, PostgreSQL и Docker; для ML/LLM-задач — PyTorch, LangGraph, vLLM, RAG и pgvector. Также занимался LoRA-дообучением моделей порядка 20 млрд параметров.
-
-### Технологии
-
-`Python` · `FastAPI` · `TypeScript` · `React` · `PostgreSQL` · `PyTorch` · `RAG` · `pgvector` · `LangGraph` · `vLLM` · `LoRA` · `Docker` · `GitHub Actions`
+**[Mermaid Copilot](https://github.com/fantom2513/ujm-service)** — приложение для генерации и редактирования UX-схем с помощью LLM: TypeScript на frontend и backend, обработка документов, API и экспорт схем.
 
 <sub>Корпоративный код остаётся закрытым; здесь описаны только направления работы и технологии.</sub>
