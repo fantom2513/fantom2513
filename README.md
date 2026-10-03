@@ -2,6 +2,8 @@
 
 Full-stack engineer working on applied ML and LLM systems.
 
+![Python, PyTorch, FastAPI, PostgreSQL, TypeScript, React, Vite, Docker](https://skillicons.dev/icons?i=py,pytorch,fastapi,postgres,ts,react,vite,docker)
+
 ## Technical focus
 
 **ML and LLMs**
